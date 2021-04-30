@@ -1,19 +1,18 @@
-# Flix
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+# Homework 5
+Homework 5 creates an app that allows users to take pictures and draw
 
 ---
 
-## Flix
+## Homework 5
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
-
-#### REQUIRED (10pts)
-- [ ] (70pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
-- [ ] (10pts) Views should be responsive for both landscape/portrait mode.
-   - [ ] (5pt) In portrait mode, the poster image, title, and movie overview is shown.
-   - [ ] (5pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
-- [ ] (20pts) Improved the user interface by experimenting with styling and coloring.
+### REQUIRED (10pts)
+- [x] App can take a picture and show it in the second activity 20%
+- [x] App enables multi-touch drawing, with the selected color 20%
+- [ ] App supports adding different icons by double-tapping and long-pressing gesture 15%
+   - [ ] App supports the undoing the line-drawing and clearing the canvas 15%
+- [ ] After finishing one picture, the user can take another picture and edit it again 10%
+- [x] Bug free 10%
+- [x] Submission follows the guidelines, and README file is complete 10%
 
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
@@ -21,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had challenges being able to draw on the actual image itself but was able to make it on another page.
 
 ### Open-source libraries used
 
