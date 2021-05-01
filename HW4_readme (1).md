@@ -15,9 +15,8 @@ Homework 5 creates an app that allows users to take pictures and draw
 - [x] Submission follows the guidelines, and README file is complete 10%
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![Alt Text](https://media.giphy.com/media/qd1yu3P0zNuUbGNGGz/giphy.gif)
 
 ### Notes
 I had challenges being able to draw on the actual image itself but was able to make it on another page.
